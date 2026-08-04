@@ -1,0 +1,16 @@
+@100
+D=A
+@punt
+M=D
+@10
+D=A
+@cont
+M=D
+(LOOP)
+@7
+D=A
+@punt
+A=M
+M=D
+@punt
+M=M+1
