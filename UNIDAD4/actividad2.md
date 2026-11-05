@@ -1,0 +1,1 @@
+el glad, el glm y el glfw son carpetas externas necesarias para realizar los proyectos en la cpu, antes de eso debemos saber que en los drivers de la cpu
